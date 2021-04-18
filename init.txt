@@ -1,5 +1,3 @@
-java -Xmx4096M -Xms4096M -jar server.jar nogui
-
 ./ngrok.exe tcp -region in 25565
 
 or
@@ -8,7 +6,6 @@ ngrok.exe tcp -region in 25565
 
 
 
+java -Xmx4096M -Xms4096M -jar server.jar nogui
 
 
-
-https://github.com/siddharthsaini/minecraft-server/tree/070a14b4b476e54ee1bd76e2d972f9d1e03699c3
