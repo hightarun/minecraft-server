@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2021-04-20 13:25:51 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-04-17 14:08:48 +0530"
@@ -1488,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2021-04-20 15:54:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2021-04-18 14:47:31 +0530"
@@ -1523,6 +1535,7 @@
       "cooked_porkchop": "2021-04-17 14:27:18 +0530",
       "cooked_mutton": "2021-04-19 01:50:45 +0530",
       "cooked_beef": "2021-04-17 14:01:22 +0530",
+      "tropical_fish": "2021-04-20 14:35:08 +0530",
       "apple": "2021-04-18 21:08:12 +0530",
       "potato": "2021-04-20 00:21:14 +0530",
       "bread": "2021-04-19 21:36:58 +0530",
@@ -2281,6 +2294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2021-04-20 15:55:33 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-04-17 17:23:22 +0530"
@@ -2477,6 +2496,12 @@
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-04-18 18:23:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2021-04-20 13:25:51 +0530"
     },
     "done": true
   },
