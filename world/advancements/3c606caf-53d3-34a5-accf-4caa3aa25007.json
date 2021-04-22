@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2021-04-21 17:54:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-04-16 00:12:14 +0530"
@@ -406,6 +412,7 @@
       "cooked_porkchop": "2021-04-16 14:51:22 +0530",
       "cooked_mutton": "2021-04-16 15:53:20 +0530",
       "cooked_beef": "2021-04-16 00:44:56 +0530",
+      "baked_potato": "2021-04-21 15:09:51 +0530",
       "apple": "2021-04-16 15:20:55 +0530",
       "cooked_salmon": "2021-04-16 15:29:18 +0530"
     },
@@ -450,6 +457,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-04-16 14:42:57 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-04-21 15:33:49 +0530"
     },
     "done": true
   },
@@ -510,6 +523,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-16 16:08:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2021-04-21 17:54:13 +0530"
     },
     "done": true
   },
@@ -787,6 +806,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-04-16 00:13:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-04-21 15:33:49 +0530"
     },
     "done": true
   },
@@ -1364,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2021-04-21 17:54:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-04-18 23:53:27 +0530"
@@ -1870,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-04-21 15:49:10 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-04-16 00:13:10 +0530"
@@ -1987,6 +2024,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-04-17 15:20:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-04-21 15:33:49 +0530"
     },
     "done": true
   },

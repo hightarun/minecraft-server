@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2021-04-21 15:44:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-04-17 15:30:49 +0530"
@@ -393,7 +399,9 @@
     "criteria": {
       "cooked_mutton": "2021-04-16 15:24:50 +0530",
       "cooked_beef": "2021-04-20 16:09:35 +0530",
+      "porkchop": "2021-04-21 15:27:38 +0530",
       "potato": "2021-04-20 16:09:32 +0530",
+      "mutton": "2021-04-21 16:12:04 +0530",
       "bread": "2021-04-19 15:24:22 +0530",
       "rotten_flesh": "2021-04-17 14:37:22 +0530",
       "salmon": "2021-04-16 16:21:34 +0530"
@@ -976,6 +984,7 @@
       "minecraft:skeleton": "2021-04-16 15:15:42 +0530",
       "minecraft:hoglin": "2021-04-20 15:18:12 +0530",
       "minecraft:spider": "2021-04-16 17:23:39 +0530",
+      "minecraft:slime": "2021-04-21 16:47:38 +0530",
       "minecraft:husk": "2021-04-17 15:32:07 +0530",
       "minecraft:zombie": "2021-04-16 15:52:45 +0530",
       "minecraft:drowned": "2021-04-17 14:45:18 +0530",
@@ -1073,6 +1082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2021-04-21 15:44:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-04-20 15:53:04 +0530"
@@ -1088,6 +1103,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-04-19 16:56:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-04-21 16:47:42 +0530"
     },
     "done": true
   },
@@ -1379,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-04-21 16:57:22 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2021-04-20 14:42:59 +0530"
@@ -1538,6 +1565,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-04-17 16:14:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-04-21 16:47:42 +0530"
     },
     "done": true
   },
@@ -1775,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-04-21 16:47:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-04-16 15:20:09 +0530"
@@ -1943,6 +1982,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2021-04-19 16:56:27 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-04-21 16:21:36 +0530"
     },
     "done": true
   },
@@ -2149,6 +2194,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-04-16 15:20:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2021-04-21 15:44:32 +0530"
     },
     "done": true
   },
