@@ -1,6 +1,9 @@
 ./ngrok.exe tcp -region in 25565
 
-or
+
+
+
+-----------------------------------------------------------
 
 ngrok.exe tcp -region in 25565
 

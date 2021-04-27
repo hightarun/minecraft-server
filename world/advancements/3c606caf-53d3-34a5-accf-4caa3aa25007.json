@@ -442,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-04-22 12:45:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-04-16 14:26:55 +0530"
@@ -601,6 +607,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-04-16 00:16:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-04-22 13:02:16 +0530"
     },
     "done": true
   },
@@ -994,6 +1006,7 @@
       "minecraft:skeleton": "2021-04-16 15:06:47 +0530",
       "minecraft:spider": "2021-04-20 14:53:41 +0530",
       "minecraft:creeper": "2021-04-20 11:37:52 +0530",
+      "minecraft:witch": "2021-04-22 15:22:03 +0530",
       "minecraft:husk": "2021-04-18 20:55:05 +0530",
       "minecraft:zombie": "2021-04-16 15:19:34 +0530"
     },
@@ -1182,6 +1195,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-04-16 00:11:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-04-22 12:45:02 +0530"
     },
     "done": true
   },
@@ -2027,6 +2046,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-04-22 12:45:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-04-21 15:33:49 +0530"
@@ -2090,6 +2115,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-04-18 23:48:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-04-22 12:45:02 +0530"
     },
     "done": true
   },
@@ -2263,5 +2294,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2586
 }
