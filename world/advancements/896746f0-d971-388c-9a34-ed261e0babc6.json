@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-05-30 00:07:11 +0530",
+      "minecraft:river": "2021-05-30 00:07:10 +0530",
+      "minecraft:plains": "2021-05-30 00:07:02 +0530"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
