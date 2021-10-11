@@ -10,7 +10,7 @@
 2. from termial in the ngrock directory run:
    ### ngrok.exe tcp -region in 25565
 3. another terminal session in the same directory run:
-   ### java -Xm4096M -Xms4096M -jar server.jar nogui
+   ### java -Xmx4096M -Xms4096M -jar server.jar nogui
 
 ## Linux / Mac
 
