@@ -628,6 +628,7 @@
       "minecraft:pillager": "2021-04-18 17:29:51 +0530",
       "minecraft:skeleton": "2021-04-16 00:53:35 +0530",
       "minecraft:ravager": "2021-04-22 16:22:21 +0530",
+      "minecraft:ghast": "2021-10-11 15:32:17 +0530",
       "minecraft:hoglin": "2021-04-19 14:08:15 +0530",
       "minecraft:vindicator": "2021-04-22 16:19:58 +0530",
       "minecraft:spider": "2021-04-16 00:29:10 +0530",
@@ -1382,15 +1383,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2021-10-11 12:18:43 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-04-20 16:00:50 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-10-11 12:18:43 +0530"
     },
     "done": true
   },
@@ -2772,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-10-11 16:28:14 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-04-16 00:48:47 +0530"
@@ -2922,6 +2929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-10-11 16:37:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-04-15 23:56:54 +0530"
@@ -2997,6 +3010,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-04-18 15:58:36 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-10-11 16:28:14 +0530"
     },
     "done": true
   },
