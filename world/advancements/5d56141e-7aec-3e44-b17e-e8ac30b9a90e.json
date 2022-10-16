@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-10-16 17:55:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-04-17 13:51:02 +0530"
@@ -248,6 +254,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-21 01:56:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-10-16 18:56:16 +0530"
     },
     "done": true
   },
@@ -455,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-10-16 17:58:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-21 01:56:19 +0530"
@@ -467,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2022-10-16 17:32:55 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-12-16 23:45:10 +0530"
@@ -476,6 +500,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2021-12-18 14:54:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2022-10-16 17:59:42 +0530"
     },
     "done": true
   },
@@ -3631,6 +3661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-10-16 18:03:04 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2021-10-12 14:40:28 +0530"
@@ -3867,10 +3903,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/white.png": "2021-04-20 00:50:28 +0530",
-      "textures/entity/cat/jellie.png": "2021-12-17 21:39:59 +0530",
-      "textures/entity/cat/calico.png": "2021-04-20 02:10:55 +0530",
-      "textures/entity/cat/red.png": "2021-10-14 17:55:17 +0530"
+      "minecraft:white": "2021-04-20 00:50:28 +0530",
+      "minecraft:calico": "2021-04-20 02:10:55 +0530",
+      "minecraft:jellie": "2021-12-17 21:39:59 +0530",
+      "minecraft:red": "2021-10-14 17:55:17 +0530"
     },
     "done": false
   },
@@ -3988,5 +4024,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 3120
 }
