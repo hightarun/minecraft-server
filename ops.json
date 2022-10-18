@@ -40,5 +40,11 @@
     "name": "hightarun",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c0b0c6a2-5b64-349d-82d2-c589821a17cb",
+    "name": "tdeep",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
