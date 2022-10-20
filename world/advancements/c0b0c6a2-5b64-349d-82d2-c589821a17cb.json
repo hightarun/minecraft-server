@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-04-16 15:54:29 +0530"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2022-10-18 23:33:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
     },
     "done": true
   },
@@ -594,7 +606,8 @@
       "minecraft:husk": "2021-04-18 21:18:00 +0530",
       "minecraft:piglin": "2022-10-16 21:27:30 +0530",
       "minecraft:enderman": "2021-04-19 16:12:25 +0530",
-      "minecraft:zombie": "2021-04-18 18:30:14 +0530"
+      "minecraft:zombie": "2021-04-18 18:30:14 +0530",
+      "minecraft:drowned": "2022-10-20 21:44:43 +0530"
     },
     "done": false
   },
@@ -931,6 +944,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-04-20 16:00:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
     },
     "done": true
   },
@@ -1418,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-10-20 21:39:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-04-19 14:02:24 +0530",
@@ -1861,6 +1886,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-04-16 17:13:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
     },
     "done": true
   },
@@ -2470,6 +2501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-04-18 18:30:24 +0530"
@@ -2479,6 +2516,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-10-16 21:21:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-10-20 21:39:12 +0530"
     },
     "done": true
   },
@@ -2815,6 +2858,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2021-04-20 16:16:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2022-10-20 20:51:43 +0530"
     },
     "done": true
   },
